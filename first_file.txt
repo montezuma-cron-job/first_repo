@@ -1,3 +1,17 @@
 THIS IS OUR FIRST DOCUMENT -- DEVIN
 adding some stuff
 adding some more stuff, at the same time that someone is working on the feature branch.
+
+// ANDREW HAS JOINED THE PARTY
+
+Name Ideas:
+montezuma.cron.job
+montezuma.coders.united
+montezuma.0x3445
+yellow.puppy
+dragonforce.montezuma
+ahpple.ink
+robots.don't.fall.far.from.the.tree
+RDFFFTT
+
+letz push dis snazz
